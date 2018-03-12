@@ -1,0 +1,103 @@
+Bristol - Manchester                 bet:  4       bank:  true          mbs: 2         odd: 1.05
+
+
+Sheffield - Bournemouth              bet:  12       bank:  true          mbs: 2         odd: 5.85
+
+
+Queens - Motherwell                  bet:  0       bank:  true          mbs: 2         odd: 1.20
+Queens - Motherwell                  bet:  2       bank:  true          mbs: 2         odd: 4.35
+
+
+Wednesday - Heart                    bet:  1       bank:  true          mbs: 1         odd: 1.25
+Wednesday - Heart                    bet:  2       bank:  true          mbs: 1         odd: 6.20
+
+
+Barnsley - Sunderland                bet:  1       bank:  false          mbs: 4         odd: 3.00
+Barnsley - Sunderland                bet:  4       bank:  false          mbs: 4         odd: 4.30
+Barnsley - Sunderland                bet:  7       bank:  false          mbs: 4         odd: 5.95
+Barnsley - Sunderland                bet:  8       bank:  false          mbs: 4         odd: 6.45
+Barnsley - Sunderland                bet:  12       bank:  false          mbs: 4         odd: 2.15
+
+
+  |  Bank  |  Teams                           | Bet            | Mbs          | Odd
+1.    ✔       Bristol - Manchester                 bet:  4          mbs: 2         odd: 1.05
+2.    ✔       Sheffield - Bournemouth              bet:  12          mbs: 2         odd: 5.85
+3.    ✔       Queens - Motherwell                  bet:  0          mbs: 2         odd: 1.20
+      ✔       Queens - Motherwell                  bet:  2          mbs: 2         odd: 4.35
+4.    ✔       Wednesday - Heart                    bet:  1          mbs: 1         odd: 1.25
+      ✔       Wednesday - Heart                    bet:  2          mbs: 1         odd: 6.20
+
+Coupon Odd: 165.66
+--------------------------------------------------------------------------------------
+
+Coupons with 4 games:  1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  |  Bank  |  Teams                           | Bet            | Mbs          | Odd
+1.    ✔       Bristol - Manchester                 bet:  4          mbs: 2         odd: 1.05
+2.    ✔       Sheffield - Bournemouth              bet:  12          mbs: 2         odd: 5.85
+3.    ✔       Queens - Motherwell                  bet:  0          mbs: 2         odd: 1.20
+      ✔       Queens - Motherwell                  bet:  2          mbs: 2         odd: 4.35
+4.    ✔       Wednesday - Heart                    bet:  1          mbs: 1         odd: 1.25
+      ✔       Wednesday - Heart                    bet:  2          mbs: 1         odd: 6.20
+5.    ✕       Barnsley - Sunderland                bet:  1          mbs: 4         odd: 3.00
+
+Coupon Odd: 496.99
+--------------------------------------------------------------------------------------
+
+  |  Bank  |  Teams                           | Bet            | Mbs          | Odd
+1.    ✔       Bristol - Manchester                 bet:  4          mbs: 2         odd: 1.05
+2.    ✔       Sheffield - Bournemouth              bet:  12          mbs: 2         odd: 5.85
+3.    ✔       Queens - Motherwell                  bet:  0          mbs: 2         odd: 1.20
+      ✔       Queens - Motherwell                  bet:  2          mbs: 2         odd: 4.35
+4.    ✔       Wednesday - Heart                    bet:  1          mbs: 1         odd: 1.25
+      ✔       Wednesday - Heart                    bet:  2          mbs: 1         odd: 6.20
+5.    ✕       Barnsley - Sunderland                bet:  4          mbs: 4         odd: 4.30
+
+Coupon Odd: 712.35
+--------------------------------------------------------------------------------------
+
+  |  Bank  |  Teams                           | Bet            | Mbs          | Odd
+1.    ✔       Bristol - Manchester                 bet:  4          mbs: 2         odd: 1.05
+2.    ✔       Sheffield - Bournemouth              bet:  12          mbs: 2         odd: 5.85
+3.    ✔       Queens - Motherwell                  bet:  0          mbs: 2         odd: 1.20
+      ✔       Queens - Motherwell                  bet:  2          mbs: 2         odd: 4.35
+4.    ✔       Wednesday - Heart                    bet:  1          mbs: 1         odd: 1.25
+      ✔       Wednesday - Heart                    bet:  2          mbs: 1         odd: 6.20
+5.    ✕       Barnsley - Sunderland                bet:  7          mbs: 4         odd: 5.95
+
+Coupon Odd: 985.70
+--------------------------------------------------------------------------------------
+
+  |  Bank  |  Teams                           | Bet            | Mbs          | Odd
+1.    ✔       Bristol - Manchester                 bet:  4          mbs: 2         odd: 1.05
+2.    ✔       Sheffield - Bournemouth              bet:  12          mbs: 2         odd: 5.85
+3.    ✔       Queens - Motherwell                  bet:  0          mbs: 2         odd: 1.20
+      ✔       Queens - Motherwell                  bet:  2          mbs: 2         odd: 4.35
+4.    ✔       Wednesday - Heart                    bet:  1          mbs: 1         odd: 1.25
+      ✔       Wednesday - Heart                    bet:  2          mbs: 1         odd: 6.20
+5.    ✕       Barnsley - Sunderland                bet:  8          mbs: 4         odd: 6.45
+
+Coupon Odd: 1068.53
+--------------------------------------------------------------------------------------
+
+  |  Bank  |  Teams                           | Bet            | Mbs          | Odd
+1.    ✔       Bristol - Manchester                 bet:  4          mbs: 2         odd: 1.05
+2.    ✔       Sheffield - Bournemouth              bet:  12          mbs: 2         odd: 5.85
+3.    ✔       Queens - Motherwell                  bet:  0          mbs: 2         odd: 1.20
+      ✔       Queens - Motherwell                  bet:  2          mbs: 2         odd: 4.35
+4.    ✔       Wednesday - Heart                    bet:  1          mbs: 1         odd: 1.25
+      ✔       Wednesday - Heart                    bet:  2          mbs: 1         odd: 6.20
+5.    ✕       Barnsley - Sunderland                bet:  12          mbs: 4         odd: 2.15
+
+Coupon Odd: 356.18
+--------------------------------------------------------------------------------------
+
+Coupons with 5 games:  5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Total Odd:    3785.40
+
+
